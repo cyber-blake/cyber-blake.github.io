@@ -1,0 +1,122 @@
+@charset "utf-8";
+/*
+Template Name: Glozzom
+Author: OS Templates
+Author URI: https://www.os-templates.com/
+Licence: Free to use under our free template licence terms
+Licence URI: https://www.os-templates.com/template-terms
+File: Framework CSS
+*/
+
+*, *::before, *::after{box-sizing:border-box;}
+html{-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%;}
+body{margin:0; padding:0; font-family:verdana, arial, sans-serif; font-size:14px; line-height:1.6; color:#666666; background-color:#FFFFFF;}
+body{-webkit-text-size-adjust:100%;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale;}
+
+/* Typography */
+h1, h2, h3, h4, h5, h6{margin:0 0 15px 0; font-family:verdana, arial, sans-serif; font-weight:normal; line-height:1.4;}
+h1{font-size:24px;}
+h2{font-size:20px;}
+h3{font-size:18px;}
+h4{font-size:16px;}
+h5{font-size:14px;}
+h6{font-size:13px;}
+p{margin:0 0 15px 0;}
+blockquote, q{quotes:none;margin:0;}
+blockquote:before, blockquote:after, q:before, q:after{content:'';content:none;}
+
+/* Lists */
+ul, ol{margin:0 0 15px 0; padding:0;}
+li{}
+
+/* Links */
+a{text-decoration:none; color:#9b4513;}
+a:hover{text-decoration:underline; color:#9b4513;}
+a:focus{outline:none;}
+a img{border:none;}
+
+/* Images */
+img{max-width:100%; height:auto; vertical-align:middle;}
+.imgl{display:inline; float:left; margin:0 15px 15px 0;}
+.imgr{display:inline; float:right; margin:0 0 15px 15px;}
+.img1{display:block; width:100%; height:auto;}
+.img2{display:block; width:100%; height:auto; margin-bottom:10px;}
+.img3{display:block; width:100%; height:auto;}
+
+/* Forms */
+fieldset{border:none;}
+legend{border:none;}
+label{display:block; font-weight:bold; margin-bottom:5px;}
+select, input, textarea{font-family:verdana, arial, sans-serif; font-size:13px;}
+textarea{resize:vertical;}
+button, input[type="submit"], input[type="button"]{cursor:pointer;}
+
+/* Tables */
+table, th, td{border:1px solid;}
+table{width:100%; border-collapse:collapse;}
+
+/* Clearfix */
+.clear{display:block; clear:both;}
+.group::after{content:"."; display:block; height:0; clear:both; visibility:hidden;}
+.group{zoom:1;}/* IE6-7 */
+
+/* Floats */
+.fl_left{display:inline; float:left;}
+.fl_right{display:inline; float:right;}
+
+/* Wrappers */
+.hoc{display:block; margin:0 auto;}
+.wrapper{display:block; width:100%; margin:0; padding:0;}
+
+/* Spacing */
+.mt-10{margin-top:10px;}
+.mt-20{margin-top:20px;}
+.mt-30{margin-top:30px;}
+.mb-10{margin-bottom:10px;}
+.mb-20{margin-bottom:20px;}
+.mb-30{margin-bottom:30px;}
+.ml-10{margin-left:10px;}
+.mr-10{margin-right:10px;}
+.pt-10{padding-top:10px;}
+.pt-20{padding-top:20px;}
+.pt-30{padding-top:30px;}
+.pb-10{padding-bottom:10px;}
+.pb-20{padding-bottom:20px;}
+.pb-30{padding-bottom:30px;}
+.pl-10{padding-left:10px;}
+.pr-10{padding-right:10px;}
+
+/* Grid System */
+.one_half{display:block; float:left; width:48.5%; margin-right:3%;}
+.one_half.last{margin-right:0;}
+.one_third{display:block; float:left; width:31.33%; margin-right:3%;}
+.one_third.last{margin-right:0;}
+.two_third{display:block; float:left; width:65.66%; margin-right:3%;}
+.two_third.last{margin-right:0;}
+.one_quarter{display:block; float:left; width:22.75%; margin-right:3%;}
+.one_quarter.last{margin-right:0;}
+.two_quarter{display:block; float:left; width:48.5%; margin-right:3%;}
+.two_quarter.last{margin-right:0;}
+.three_quarter{display:block; float:left; width:74.25%; margin-right:3%;}
+.three_quarter.last{margin-right:0;}
+
+/* Text Utilities */
+.nospace{margin:0 !important; padding:0 !important;}
+.justified{text-align:justify;}
+.center{text-align:center;}
+.right{text-align:right;}
+.left{text-align:left;}
+.uppercase{text-transform:uppercase;}
+.bold{font-weight:bold;}
+
+/* Buttons */
+.btn{display:inline-block; padding:8px 18px; color:#FFFFFF !important; background-color:#44331b; border:1px solid #463123; text-decoration:none !important; font-size:13px; text-transform:uppercase;}
+.btn:hover{color:inherit !important; background-color:transparent; border-color:inherit;}
+.btn.medium{padding:10px 24px; font-size:14px;}
+.btn.large{padding:14px 32px; font-size:16px;}
+
+/* Overlay */
+.overlay{position:relative;}
+.overlay .overlay::after{position:absolute; top:0; left:0; width:100%; height:100%; content:"";}
+
+/* Font Awesome placeholder - loaded separately */
