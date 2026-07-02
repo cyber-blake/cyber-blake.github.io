@@ -1,0 +1,42 @@
+
+.big, td.big  { font-size : 18px; }
+.medium, td.medium  { font-size : 14px; }
+.small, td.small    { font-size : 12px; }
+
+
+.img1 {
+	border: 15px solid #ddcab0;
+	border-radius: 10px;
+	margin: 6px;
+	width: 150px; 
+	height: 160px;
+}
+.img1:hover {
+	border: 15px solid #44331b;
+}
+
+.img2 {
+	border: 15px solid #ddcab0;
+	border-radius: 10px;
+	margin: 10px 10px 10px 0;
+	width: 140px; 
+	height: 150px;
+}
+
+.img3 {
+	border: 15px solid #ddcab0;
+	border-radius: 10px;
+}
+.img3:hover {
+	border: 15px solid #44331b;
+}
+
+/* Social Network icons */
+.vk32:active, .fb32:active, .ok32:active, .vk32:focus, .fb32:focus, .ok32:focus
+{
+	background-image: url('img/system/_net32.png');
+}
+.vk32:focus { background-position: 0px 0; }
+.fb32:focus { background-position: -32px 0; }
+.ok32:focus { background-position: -96px 0px; }
+

@@ -1,0 +1,179 @@
+/* sph-3.82 2019-03-29 */
+
+/* Universal Formatting Classes */
+
+/* Positioning */
+.block { display: block !important; }
+.inline { display: inline-block !important; }
+.centered { margin-left: auto; margin-right: auto; }
+.center { text-align: center !important; }
+.right { text-align: right !important; }
+.justify { text-align: justify !important; }
+.wide     { width: 100%;}
+.nomargin   { margin: 0; }
+.nopadding  { padding: 0; }
+.fright     { display: block; float: right; }
+.fleft      { display: block; float: left; }
+
+.ml-10 { margin-left: 10px !important; }
+.mr-10 { margin-right: 10px !important; }
+.mt-10 { margin-top: 10px !important; }
+.mb-10 { margin-bottom: 10px !important; }
+.ml-20 { margin-left: 20px !important; }
+.mr-20 { margin-right: 20px !important; }
+.mt-20 { margin-top: 20px !important; }
+.mb-20 { margin-bottom: 20px !important; }
+.ml-30 { margin-left: 30px !important; }
+.mr-30 { margin-right: 30px !important; }
+.mt-30 { margin-top: 30px !important; }
+.mb-30 { margin-bottom: 30px !important; }
+
+/* HTML pseudo elements */
+
+a[href],
+.link {
+    color: #0948df;
+    text-decoration: underline;
+    cursor: pointer;
+}
+
+a:visited {
+    color: #3c1688;
+}
+
+input[type="text"],
+input[type="password"],
+input[type="search"],
+input[type="url"],
+input[type="email"],
+input[type="number"],
+textarea { border: 1px solid #D9D9D9; }
+input.error  { border : 1px solid red; }
+
+/* Basic visualization */
+
+body    { background-color : white;
+    font-family: verdana, arial;
+    font-size: 14px;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 8px;
+    margin-bottom: 8px;
+    color: #000000; }
+
+.big, td.big  { font-size : 18px; }
+/*
+.medium, td.medium  { font-size : 12px; }
+*/
+.small, td.small    { font-size : 10px; }
+.red, a.red    { color : red; }
+.gray, a.gray   { color: gray !important; }
+.error  { color : red; }
+.warning    { color : blue; }
+
+.url { text-decoration: underline !important; }
+.nourl { text-decoration: none !important; }
+.bold { font-weight: bold !important; }
+.nobold { font-weight: normal !important; }
+
+.dev-rd { border: 1px solid #940000; background: #fae1de; box-sizing: border-box; }
+.dev-gr { border: 1px solid #145214; background: #eef5df; }
+.dev-bl { border: 1px solid #000066; background: #ece9f0; }
+
+.admin a {
+	#font-size: 0.8em;
+	color: red;
+	text-decoration: underline;
+	padding: 0 10px;
+	background: #FFCCCC;
+}
+
+.action a {
+	#font-size: 0.8em;
+	color: blue;
+	text-decoration: underline;
+	padding: 0 10px;
+	background: #ccccff;
+}
+
+/* Basic SPH elements */
+
+/* Messages alt */
+.msg-srv {
+  margin:  10px auto 10px auto;
+  padding: 5px 5px 5px 30px;
+  width: auto;
+}
+/**/
+
+/* Errors alt */
+.msg-err
+{
+    background: url('img/system/msg_red_error.png') 3px 3px no-repeat;
+    background-color: rgb(245,232,227);
+}
+/* Warning alt */
+.msg-wrn
+{
+    background: url('img/system/msg_blue_info.png') 3px 3px no-repeat;    
+    background-color: rgb(233,237,242);
+}
+
+/* Social Network icons */
+.vk32, .fb32, .tw32, .ok32, .mail32, .lj32, .yt32, .flck32, .pnrm32, .in32, .gl32, .pl32, .ru32
+{
+	display: inline-block;
+	background-image: url('img/system/_net32.png');
+	height: 32px;
+	width: 32px;
+	vertical-align: bottom;	
+	outline: none;
+	margin-right: 6px;
+	background-repeat: no-repeat;
+}
+.vk32 { background-position: 0px 0; }
+.fb32 { background-position: -32px 0; }
+.tw32 { background-position: -64px 0px; }
+.ok32 { background-position: -96px 0px; }
+.mail32 { background-position: -128px 0px; }
+.lj32 { background-position: -160px 0px; }
+.yt32 { background-position: -192px 0px; }
+
+.vk24, .ya24, .fb24, .tw24, .mail24, .google24, .ok24
+{
+	display: inline-block;
+	background-image: url('img/system/net_icon24.png');
+	height: 24px;
+	width: 24px;
+	vertical-align: bottom;	
+	outline: none;
+	margin-right: 6px;
+	background-repeat: no-repeat;
+}
+.vk24 { background-position : -120px 0; }
+.ok24 { background-position : -144px 0; }
+.ya24 { background-position : -528px 0; }
+.fb24 { background-position : -48px 0; }
+.tw24 { background-position : -24px 0; }
+.mail24 { background-position : -168px 0; }
+.google24 { background-position : 0 0; }
+
+.vk16, .ya16, .fb16, .tw16, .mail16, .google16, .ok16
+{
+	display: inline-block;
+	background-image: url('img/system/net_icon16.png');
+	height: 16px;
+	width: 16px;
+	vertical-align: bottom;	
+	outline: none;
+	margin-right: 1px;
+	background-repeat: no-repeat;
+}
+.vk16 { background-position : -144px 0; }
+.ok16 { background-position : -112px 0; }
+.ya16 { background-position : -160px 0; }
+.fb16 { background-position : 0 0; }
+.tw16 { background-position : -128px 0; }
+.mail16 { background-position : -80px 0; }
+.google16 { background-position : -48px 0; }
+
