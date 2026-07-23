@@ -1,0 +1,1925 @@
+{
+  "broken_local_links": [],
+  "site_crawl_errors": [
+    "FETCH ERROR: https://tambov.ru.net//tambov.ru.net/detstvo-photos -> HTTP Error 404: Not Found",
+    "FETCH ERROR: https://tambov.ru.net//tambov.ru.net/detstvo-bibl -> HTTP Error 404: Not Found"
+  ],
+  "matched_files": 67,
+  "unmatched_project_files": [
+    {
+      "file": "id-anews.main_page-1.html",
+      "expected_key": "anews.main&page=1"
+    },
+    {
+      "file": "id-anews.main_page-2.html",
+      "expected_key": "anews.main&page=2"
+    },
+    {
+      "file": "id-anews.main_page-3.html",
+      "expected_key": "anews.main&page=3"
+    },
+    {
+      "file": "id-anews.main_page-4.html",
+      "expected_key": "anews.main&page=4"
+    },
+    {
+      "file": "id-anews.main_page-5.html",
+      "expected_key": "anews.main&page=5"
+    },
+    {
+      "file": "id-anews_page-2.html",
+      "expected_key": "anews&page=2"
+    },
+    {
+      "file": "id-anews_page-3.html",
+      "expected_key": "anews&page=3"
+    },
+    {
+      "file": "id-anews_page-4.html",
+      "expected_key": "anews&page=4"
+    },
+    {
+      "file": "id-anews_page-5.html",
+      "expected_key": "anews&page=5"
+    }
+  ],
+  "content_differences": [
+    {
+      "file": "dload-2.134.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.134",
+      "proj_hash": "429628d2ddfa368b467be60f9e13d354",
+      "site_hash": "e4a5d28037a22b1137b7601bf3344ab7"
+    },
+    {
+      "file": "dload-2.145.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.145",
+      "proj_hash": "eedec1d968091d9ebe1ecef156d5970e",
+      "site_hash": "c16e8b96fc379c691560f1a49e5d49a4"
+    },
+    {
+      "file": "dload-2.146.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.146",
+      "proj_hash": "8c1553e52549a56e92720d3546a903ec",
+      "site_hash": "9b7803c74348848a36f53ca0c1831277"
+    },
+    {
+      "file": "dload-2.147.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.147",
+      "proj_hash": "75ea05990ef22a1e87931b439724c589",
+      "site_hash": "7c0f25781b82e035abfd32288da84ffd"
+    },
+    {
+      "file": "dload-2.152.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.152",
+      "proj_hash": "c362d6f7786dc795d483049df63576ee",
+      "site_hash": "5c002347473120c4e18ed4fc9a71ba51"
+    },
+    {
+      "file": "dload-2.153.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.153",
+      "proj_hash": "9bbbdf1744cd9fb8ab9331bf7e7f4ccc",
+      "site_hash": "c62d8941291a6ac287a3293c0bccefa6"
+    },
+    {
+      "file": "dload-2.21.html",
+      "site": "https://tambov.ru.net/detstvo/?dload=2.21",
+      "proj_hash": "e4d46fc915d8fca9d4cda9d7885adf71",
+      "site_hash": "83a2a7e11ff45010941f536d55aaaeb9"
+    },
+    {
+      "file": "id-anews.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews",
+      "proj_hash": "43db068cd97d982a338132e5fe75bf39",
+      "site_hash": "a1df9aea5ce2de849b5e1110812b838a"
+    },
+    {
+      "file": "id-anews.view.1.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.1",
+      "proj_hash": "a1e9465f196ac06dcfe4b869438a840c",
+      "site_hash": "b7d0b47cde4c8b064a90b06aa022bf53"
+    },
+    {
+      "file": "id-anews.view.10.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.10",
+      "proj_hash": "d4b7fc317a9ded13afc6746c532e0afd",
+      "site_hash": "4b78a9615539c1a9ade6bdf38b6cb56a"
+    },
+    {
+      "file": "id-anews.view.11.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.11",
+      "proj_hash": "193b548d7a3e60f5ec52953347fc4943",
+      "site_hash": "9180baeb1aa3500ca58abccd221a08b0"
+    },
+    {
+      "file": "id-anews.view.12.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.12",
+      "proj_hash": "527f7937b3a2cd0560a912cd9d11fdf1",
+      "site_hash": "3c57c5c12b9e93eba7b723a0290534a3"
+    },
+    {
+      "file": "id-anews.view.13.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.13",
+      "proj_hash": "dbf66f86d381fb3859c4855414e274a5",
+      "site_hash": "9aeea589051489817b8035bd37fe717b"
+    },
+    {
+      "file": "id-anews.view.14.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.14",
+      "proj_hash": "2c6a50568eeae5ae53355429d12e884e",
+      "site_hash": "d85d0f1a3994e5b3433eeda8cfc798ae"
+    },
+    {
+      "file": "id-anews.view.15.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.15",
+      "proj_hash": "a194a0bb19f592b37ddeecf9ad3e74ce",
+      "site_hash": "967bb5b6d12d73785dcaacbc8ade377e"
+    },
+    {
+      "file": "id-anews.view.16.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.16",
+      "proj_hash": "f07c7094b8fd816275ca4fea0ba991ab",
+      "site_hash": "0c4397898ad461a8c1e60795cf4ac1bc"
+    },
+    {
+      "file": "id-anews.view.17.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.17",
+      "proj_hash": "352b8824fcf00d46311cbc0acf31c943",
+      "site_hash": "dd345077036a2f8bd579c8959f7f26da"
+    },
+    {
+      "file": "id-anews.view.18.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.18",
+      "proj_hash": "ef5269d54e89ce08f751c789d03b6bd5",
+      "site_hash": "7a14e9aec2611cd852847d0f9b098041"
+    },
+    {
+      "file": "id-anews.view.19.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.19",
+      "proj_hash": "b68cc25704dd3d3e88d52797f2862a1a",
+      "site_hash": "cdb469287ac7eae424030b2418ffc856"
+    },
+    {
+      "file": "id-anews.view.2.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.2",
+      "proj_hash": "a5c716f23f24795bedfeef94641c7074",
+      "site_hash": "3ff6b6b37dea4ccc3787d9cfdc3ee0ad"
+    },
+    {
+      "file": "id-anews.view.20.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.20",
+      "proj_hash": "f0fec90a958683bf3e9f5d0f039d2737",
+      "site_hash": "33f5102e451c4bec52019c78c9263d6c"
+    },
+    {
+      "file": "id-anews.view.21.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.21",
+      "proj_hash": "395a1368045ed40efd691b5a1748f2d7",
+      "site_hash": "0d50e4772d09fe42a2c98d1db777b121"
+    },
+    {
+      "file": "id-anews.view.22.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.22",
+      "proj_hash": "a0c618f99bd0f1168eb7eff398136b39",
+      "site_hash": "09e92dd995b179e6cbb054e33c54cdb0"
+    },
+    {
+      "file": "id-anews.view.23.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.23",
+      "proj_hash": "4dc361fe248eb1895ff3a8058b42236e",
+      "site_hash": "a2ffc66c4f5764f545089ff34b1bd39c"
+    },
+    {
+      "file": "id-anews.view.24.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.24",
+      "proj_hash": "dc53c19f37b48c03513f33c833cb7aa2",
+      "site_hash": "2e50643940b958d82c91b3826184586f"
+    },
+    {
+      "file": "id-anews.view.25.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.25",
+      "proj_hash": "8d05cd80ed340b026e4b9b5a7aa76800",
+      "site_hash": "d1e297b8da1ab25021895549aee36109"
+    },
+    {
+      "file": "id-anews.view.26.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.26",
+      "proj_hash": "ee8a2ceec984c75c643a118c71b22085",
+      "site_hash": "f70695b66c4a778b3aba3638520a7cab"
+    },
+    {
+      "file": "id-anews.view.27.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.27",
+      "proj_hash": "dcdcbe2f51af8f5a58ad68361c939228",
+      "site_hash": "341f69c3970105bbaaea6fc8785ca163"
+    },
+    {
+      "file": "id-anews.view.28.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.28",
+      "proj_hash": "7a340263f6d2b465edd446c430d5164b",
+      "site_hash": "5523540f708d6daa8aa841b10650eea8"
+    },
+    {
+      "file": "id-anews.view.29.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.29",
+      "proj_hash": "cdf2234a10bb320b76276b843d95f34e",
+      "site_hash": "e5174ed11e10c0064ba4ccf0cf2ab962"
+    },
+    {
+      "file": "id-anews.view.3.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.3",
+      "proj_hash": "d351690d32c5903a548e3d89da69dcd7",
+      "site_hash": "209e3281a3dfe9956390baab9cb4eb6e"
+    },
+    {
+      "file": "id-anews.view.30.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.30",
+      "proj_hash": "267a39c437e5b1186418e1b256f7277c",
+      "site_hash": "b51fdf2f899e7cae2ae5e42f60daadd5"
+    },
+    {
+      "file": "id-anews.view.31.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.31",
+      "proj_hash": "8a0df10bd54a6d66b451208803c4f380",
+      "site_hash": "26bec87ce3a5c4c6edf556f7c88aaecd"
+    },
+    {
+      "file": "id-anews.view.32.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.32",
+      "proj_hash": "4b62e0ece66b2df66e1e2274f7e3dbcb",
+      "site_hash": "a56ccfbc8431769db1fefad0f3e385a0"
+    },
+    {
+      "file": "id-anews.view.33.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.33",
+      "proj_hash": "3f6afe11ec4fd5820ef0c41d176d3006",
+      "site_hash": "ef87909821a918092bab48741958e20e"
+    },
+    {
+      "file": "id-anews.view.34.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.34",
+      "proj_hash": "fcf93eedd64ee31380f17672b9a20c56",
+      "site_hash": "fa9873ab9d7b22652cf2a28b9cf18371"
+    },
+    {
+      "file": "id-anews.view.35.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.35",
+      "proj_hash": "c6fa770a7d34ffd0b8bfabb40ff034b2",
+      "site_hash": "64d4519cdb9d6cedffc96b50230927ac"
+    },
+    {
+      "file": "id-anews.view.36.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.36",
+      "proj_hash": "80b90c8fc25875fb8bc50c92f02a7641",
+      "site_hash": "4d048983ff5133c673ac24dbf3847c5a"
+    },
+    {
+      "file": "id-anews.view.37.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.37",
+      "proj_hash": "082523adf365eb7932806dbeb1d47ab3",
+      "site_hash": "f2802a20185ed2a32156204c1f99ba5d"
+    },
+    {
+      "file": "id-anews.view.38.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.38",
+      "proj_hash": "676d9b36270f6ec0f477bc2b6f4a5d82",
+      "site_hash": "2ea99794f7d79e5eaee37e35d7bb5f1d"
+    },
+    {
+      "file": "id-anews.view.39.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.39",
+      "proj_hash": "3a87e6b3a8ab336cdb259f7f48e9ee08",
+      "site_hash": "43c9fab31db0949f9853c31257489250"
+    },
+    {
+      "file": "id-anews.view.4.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.4",
+      "proj_hash": "0bc42de32d3d55be269455e5d2d9bd46",
+      "site_hash": "7b55817432e634ebbee0feb3df7aa9d7"
+    },
+    {
+      "file": "id-anews.view.40.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.40",
+      "proj_hash": "96bb47982bd1298ae9c367293ff82f12",
+      "site_hash": "d5df2fdd5589ad52ab8f6b4183a94ddd"
+    },
+    {
+      "file": "id-anews.view.41.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.41",
+      "proj_hash": "26c391ce3411557ce39fbf9169c0f1d4",
+      "site_hash": "a5d43a8bc389a7354221cd97087feb0a"
+    },
+    {
+      "file": "id-anews.view.42.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.42",
+      "proj_hash": "d9fc4666b602652937e93eb4b876f2be",
+      "site_hash": "574530124ff140da86c354da263472d8"
+    },
+    {
+      "file": "id-anews.view.43.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.43",
+      "proj_hash": "76201d1d820df2880ca544ed4f9f77d5",
+      "site_hash": "5e43775825c4de9e3891f16a340acf3c"
+    },
+    {
+      "file": "id-anews.view.44.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.44",
+      "proj_hash": "82ab0e812d7900d7e9ef8102602c913c",
+      "site_hash": "0c56934a0249c9c3d184b7b38b66ae79"
+    },
+    {
+      "file": "id-anews.view.5.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.5",
+      "proj_hash": "e62e28d8cc59b36dd10884421400d0f2",
+      "site_hash": "ee0b6b613c422b9250c4702ad17989a0"
+    },
+    {
+      "file": "id-anews.view.6.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.6",
+      "proj_hash": "1f6fc55851f1a7b8671b93f57b9c510a",
+      "site_hash": "406c339358845c973273b61709c31d34"
+    },
+    {
+      "file": "id-anews.view.7.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.7",
+      "proj_hash": "3d95655481dd52bdede8223cd02a82b4",
+      "site_hash": "263848ca2f447e7a4a6ec8831fcc7960"
+    },
+    {
+      "file": "id-anews.view.8.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.8",
+      "proj_hash": "716dd27e02bbf71f07581179b6ad12b4",
+      "site_hash": "6ceda496c748478e5706dfb409043ec2"
+    },
+    {
+      "file": "id-anews.view.9.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.9",
+      "proj_hash": "cf9e62803d17a7e9f51bb7f3c025bc02",
+      "site_hash": "c892916ae065513ed9c1224fba885c63"
+    },
+    {
+      "file": "index.html",
+      "site": "https://tambov.ru.net//tambov.ru.net/detstvo-bibl",
+      "proj_hash": "15ce1afc4dd8a29c8dce0d4a9769d9d6",
+      "site_hash": ""
+    },
+    {
+      "file": "read-about-about.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-about",
+      "proj_hash": "25e9e2a7bf5634b29d1e147c60413a36",
+      "site_hash": "ae017ca34fbc87bd53a0a0f091140272"
+    },
+    {
+      "file": "read-about-geography.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-geography",
+      "proj_hash": "6e50077a29a111b60a18e599a653599e",
+      "site_hash": "288396c8f8b0c9b6a084d028779847dc"
+    },
+    {
+      "file": "read-about-relevance.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-relevance",
+      "proj_hash": "23a02b893d6f5ef3390d3df72fb6a0f2",
+      "site_hash": "a19b6ec60035bd816bee89bc26a223dc"
+    },
+    {
+      "file": "read-about-targets.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-targets",
+      "proj_hash": "3738c6224c5ced0169251cc0bdd199e0",
+      "site_hash": "52342674208b3953db69785ef8745d61"
+    },
+    {
+      "file": "read-about.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about",
+      "proj_hash": "88b2458f6b54fd842837a09f4ba48d87",
+      "site_hash": "281a2a877813580484de5b372f63c002"
+    },
+    {
+      "file": "read-exhibition.html",
+      "site": "https://tambov.ru.net/detstvo/?read=exhibition",
+      "proj_hash": "2be66882bdfef337e63e98af753c0bd9",
+      "site_hash": "5081b3db7f6a3df3bfe7dd48f0cb676f"
+    },
+    {
+      "file": "read-memories-audio.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories-audio",
+      "proj_hash": "b9deaf2a4db16fa22c254f4748295b7b",
+      "site_hash": "9a5c84925dafcaa5b7f0948060027cbb"
+    },
+    {
+      "file": "read-memories-text.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories-text",
+      "proj_hash": "176811891794f3b6bd62e77ebd9ffa66",
+      "site_hash": "3728a1e608f332873918b426c0bb800b"
+    },
+    {
+      "file": "read-memories-video.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories-video",
+      "proj_hash": "bf0d0fdcbcc00a7366c3f3998e93bcb6",
+      "site_hash": "65659c7ea474605a3ef425a9bf50d994"
+    },
+    {
+      "file": "read-memories.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories",
+      "proj_hash": "465a44d7811317ed5fa913db75eceda2",
+      "site_hash": "390b5baaa838fa7709e23cbef8cea105"
+    },
+    {
+      "file": "read-pub-concept.html",
+      "site": "https://tambov.ru.net/detstvo/?read=pub-concept",
+      "proj_hash": "bdb048c9d81bb6f04af5f5a839696619",
+      "site_hash": "0da6d206033b67f9247bdc7a123211e0"
+    },
+    {
+      "file": "read-publication.html",
+      "site": "https://tambov.ru.net/detstvo/?read=publication",
+      "proj_hash": "b04e2dabc46f3f7c8ca95c3d57cb8916",
+      "site_hash": "e57d1bd354ae14c9254e8f1195ad44a1"
+    },
+    {
+      "file": "read-socialnet.html",
+      "site": "https://tambov.ru.net/detstvo/?read=socialnet",
+      "proj_hash": "baab6b7aa4848a6df1fea726008ae21f",
+      "site_hash": "23ed8bdc9486d0e1d5d9600383da820f"
+    },
+    {
+      "file": "view-photos.html",
+      "site": "https://tambov.ru.net/detstvo/?view=photos",
+      "proj_hash": "10dc8b3ab66d42317b4f3a1de8e16332",
+      "site_hash": "5a25bd057f395ed8f26f1f9e03c7dedf"
+    }
+  ],
+  "link_differences": [
+    {
+      "file": "id-anews.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.main_page-2.html",
+        "id-anews.main_page-3.html",
+        "id-anews.main_page-4.html",
+        "id-anews.main_page-5.html",
+        "id-anews.view.33.html",
+        "id-anews.view.34.html",
+        "id-anews.view.35.html",
+        "id-anews.view.36.html",
+        "id-anews.view.37.html",
+        "id-anews.view.38.html",
+        "id-anews.view.39.html",
+        "id-anews.view.42.html",
+        "id-anews.view.43.html",
+        "id-anews.view.44.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.main&page=2",
+        "detstvo/?id=anews.main&page=3",
+        "detstvo/?id=anews.main&page=4",
+        "detstvo/?id=anews.main&page=5",
+        "detstvo/?id=anews.view.33",
+        "detstvo/?id=anews.view.34",
+        "detstvo/?id=anews.view.35",
+        "detstvo/?id=anews.view.36",
+        "detstvo/?id=anews.view.37",
+        "detstvo/?id=anews.view.38",
+        "detstvo/?id=anews.view.39",
+        "detstvo/?id=anews.view.42",
+        "detstvo/?id=anews.view.43",
+        "detstvo/?id=anews.view.44",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.1.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.1",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.2.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.2",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.10.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.10",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.15.html",
+        "id-anews.view.9.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.15",
+        "detstvo/?id=anews.view.9",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.11.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.11",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.12.html",
+        "id-anews.view.15.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.12",
+        "detstvo/?id=anews.view.15",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.12.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.12",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.11.html",
+        "id-anews.view.13.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.11",
+        "detstvo/?id=anews.view.13",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.13.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.13",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.12.html",
+        "id-anews.view.28.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.12",
+        "detstvo/?id=anews.view.28",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.14.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.14",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.16.html",
+        "id-anews.view.28.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.16",
+        "detstvo/?id=anews.view.28",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.15.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.15",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.10.html",
+        "id-anews.view.11.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.10",
+        "detstvo/?id=anews.view.11",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.16.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.16",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.14.html",
+        "id-anews.view.27.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.14",
+        "detstvo/?id=anews.view.27",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.17.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.17",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.16.html",
+        "id-anews.view.28.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.16",
+        "detstvo/?id=anews.view.28",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.18.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.18",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.19.html",
+        "id-anews.view.27.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.19",
+        "detstvo/?id=anews.view.27",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.19.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.19",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.18.html",
+        "id-anews.view.20.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.18",
+        "detstvo/?id=anews.view.20",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.2.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.2",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.1.html",
+        "id-anews.view.3.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories-video.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "?read=memories-video",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.1",
+        "detstvo/?id=anews.view.3",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.20.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.20",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.19.html",
+        "id-anews.view.21.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.19",
+        "detstvo/?id=anews.view.21",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.21.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.21",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.20.html",
+        "id-anews.view.22.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.20",
+        "detstvo/?id=anews.view.22",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.22.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.22",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.21.html",
+        "id-anews.view.23.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.21",
+        "detstvo/?id=anews.view.23",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.23.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.23",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.22.html",
+        "id-anews.view.24.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.22",
+        "detstvo/?id=anews.view.24",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.24.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.24",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.23.html",
+        "id-anews.view.25.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.23",
+        "detstvo/?id=anews.view.25",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.25.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.25",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.24.html",
+        "id-anews.view.26.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.24",
+        "detstvo/?id=anews.view.26",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.26.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.26",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.25.html",
+        "id-anews.view.29.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.25",
+        "detstvo/?id=anews.view.29",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.27.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.27",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.16.html",
+        "id-anews.view.18.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.16",
+        "detstvo/?id=anews.view.18",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.28.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.28",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.13.html",
+        "id-anews.view.14.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.13",
+        "detstvo/?id=anews.view.14",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.29.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.29",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.26.html",
+        "id-anews.view.30.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.26",
+        "detstvo/?id=anews.view.30",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.3.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.3",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.2.html",
+        "id-anews.view.5.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.2",
+        "detstvo/?id=anews.view.5",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.30.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.30",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.29.html",
+        "id-anews.view.31.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.29",
+        "detstvo/?id=anews.view.31",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.31.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.31",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.30.html",
+        "id-anews.view.32.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.30",
+        "detstvo/?id=anews.view.32",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.32.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.32",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.31.html",
+        "id-anews.view.40.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.31",
+        "detstvo/?id=anews.view.40",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.33.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.33",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.35.html",
+        "id-anews.view.41.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.35",
+        "detstvo/?id=anews.view.41",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.34.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.34",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.36.html",
+        "id-anews.view.38.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.36",
+        "detstvo/?id=anews.view.38",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.35.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.35",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.33.html",
+        "id-anews.view.36.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.33",
+        "detstvo/?id=anews.view.36",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.36.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.36",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.34.html",
+        "id-anews.view.35.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.34",
+        "detstvo/?id=anews.view.35",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.37.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.37",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.36.html",
+        "id-anews.view.38.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.36",
+        "detstvo/?id=anews.view.38",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.38.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.38",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.34.html",
+        "id-anews.view.39.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.34",
+        "detstvo/?id=anews.view.39",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.39.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.39",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.38.html",
+        "id-anews.view.43.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.38",
+        "detstvo/?id=anews.view.43",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.4.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.4",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.6.html",
+        "id-anews.view.7.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.6",
+        "detstvo/?id=anews.view.7",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.40.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.40",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.32.html",
+        "id-anews.view.33.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.32",
+        "detstvo/?id=anews.view.33",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.41.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.41",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.32.html",
+        "id-anews.view.33.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.32",
+        "detstvo/?id=anews.view.33",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.42.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.42",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.43.html",
+        "id-anews.view.44.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories-video.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "?read=memories-video",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.43",
+        "detstvo/?id=anews.view.44",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.43.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.43",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.39.html",
+        "id-anews.view.42.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.39",
+        "detstvo/?id=anews.view.42",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.44.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.44",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.42.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.42",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.5.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.5",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.3.html",
+        "id-anews.view.8.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.3",
+        "detstvo/?id=anews.view.8",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.6.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.6",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.4.html",
+        "id-anews.view.9.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.4",
+        "detstvo/?id=anews.view.9",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.7.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.7",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.4.html",
+        "id-anews.view.8.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.4",
+        "detstvo/?id=anews.view.8",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.8.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.8",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.5.html",
+        "id-anews.view.7.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.5",
+        "detstvo/?id=anews.view.7",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "id-anews.view.9.html",
+      "site": "https://tambov.ru.net/detstvo/?id=anews.view.9",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.10.html",
+        "id-anews.view.6.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.10",
+        "detstvo/?id=anews.view.6",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "index.html",
+      "site": "https://tambov.ru.net//tambov.ru.net/detstvo-bibl",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.42.html",
+        "id-anews.view.43.html",
+        "id-anews.view.44.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-pub-concept.html",
+        "read-publication.html",
+        "read-socialnet.html",
+        "view-photos.html"
+      ],
+      "only_site": []
+    },
+    {
+      "file": "read-about-about.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-about",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=about",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-about-geography.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-geography",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=about",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-about-relevance.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-relevance",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=about",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-about-targets.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about-targets",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=about",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-about.html",
+      "site": "https://tambov.ru.net/detstvo/?read=about",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about-about.html",
+        "read-about-geography.html",
+        "read-about-relevance.html",
+        "read-about-targets.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "read-socialnet.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=about-about",
+        "?read=about-geography",
+        "?read=about-relevance",
+        "?read=about-targets",
+        "?read=socialnet",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-exhibition.html",
+      "site": "https://tambov.ru.net/detstvo/?read=exhibition",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?view=photos",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos",
+        "tambov.ru.net/detstvo-bibl/",
+        "tambov.ru.net/detstvo-photos/"
+      ]
+    },
+    {
+      "file": "read-memories-audio.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories-audio",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=memories",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-memories-text.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories-text",
+      "only_project": [
+        "dload-2.152.html",
+        "dload-2.153.html",
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=memories",
+        "detstvo/",
+        "detstvo/?dload=2.152",
+        "detstvo/?dload=2.153",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-memories-video.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories-video",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "?read=memories",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    },
+    {
+      "file": "read-memories.html",
+      "site": "https://tambov.ru.net/detstvo/?read=memories",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories-audio.html",
+        "read-memories-text.html",
+        "read-memories-video.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=memories-audio",
+        "?read=memories-text",
+        "?read=memories-video",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-pub-concept.html",
+      "site": "https://tambov.ru.net/detstvo/?read=pub-concept",
+      "only_project": [
+        "dload-2.21.html",
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?dload=2.21",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-publication.html",
+      "site": "https://tambov.ru.net/detstvo/?read=publication",
+      "only_project": [
+        "dload-2.134.html",
+        "dload-2.145.html",
+        "dload-2.146.html",
+        "dload-2.147.html",
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-pub-concept.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?dload=2.134",
+        "?dload=2.145",
+        "?dload=2.146",
+        "?dload=2.147",
+        "?read=pub-concept",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "read-socialnet.html",
+      "site": "https://tambov.ru.net/detstvo/?read=socialnet",
+      "only_project": [
+        "id-anews.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html",
+        "view-photos.html"
+      ],
+      "only_site": [
+        "?read=about",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication",
+        "detstvo/?view=photos"
+      ]
+    },
+    {
+      "file": "view-photos.html",
+      "site": "https://tambov.ru.net/detstvo/?view=photos",
+      "only_project": [
+        "id-anews.html",
+        "id-anews.view.44.html",
+        "index.html",
+        "read-about.html",
+        "read-exhibition.html",
+        "read-memories.html",
+        "read-publication.html"
+      ],
+      "only_site": [
+        "?read=exhibition",
+        "detstvo/",
+        "detstvo/?id=anews",
+        "detstvo/?id=anews.view.44",
+        "detstvo/?read=about",
+        "detstvo/?read=exhibition",
+        "detstvo/?read=memories",
+        "detstvo/?read=publication"
+      ]
+    }
+  ]
+}
