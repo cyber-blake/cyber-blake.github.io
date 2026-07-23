@@ -1,0 +1,746 @@
+{
+  "summary": {
+    "total_discovered": 81,
+    "local_files": 69,
+    "pages_compared": 69,
+    "perfect": 50,
+    "has_diffs": 19,
+    "missing_local": 8,
+    "fetch_errors": 0
+  },
+  "pages": [
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews",
+      "local_file": "id-anews.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.main&page=1",
+      "local_file": "id-anews.main_page-1.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.main&page=2",
+      "local_file": "id-anews.main_page-2.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.main&page=3",
+      "local_file": "id-anews.main_page-3.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.main&page=4",
+      "local_file": "id-anews.main_page-4.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.main&page=5",
+      "local_file": "id-anews.main_page-5.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.1",
+      "local_file": "id-anews.view.1.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.10",
+      "local_file": "id-anews.view.10.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.11",
+      "local_file": "id-anews.view.11.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.12",
+      "local_file": "id-anews.view.12.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.13",
+      "local_file": "id-anews.view.13.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.14",
+      "local_file": "id-anews.view.14.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.15",
+      "local_file": "id-anews.view.15.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.16",
+      "local_file": "id-anews.view.16.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.17",
+      "local_file": "id-anews.view.17.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.18",
+      "local_file": "id-anews.view.18.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.19",
+      "local_file": "id-anews.view.19.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.2",
+      "local_file": "id-anews.view.2.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (1): ?read=memories-video"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (1): /detstvo/?read=memories-video"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.20",
+      "local_file": "id-anews.view.20.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.21",
+      "local_file": "id-anews.view.21.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.22",
+      "local_file": "id-anews.view.22.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.23",
+      "local_file": "id-anews.view.23.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.24",
+      "local_file": "id-anews.view.24.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.25",
+      "local_file": "id-anews.view.25.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.26",
+      "local_file": "id-anews.view.26.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.27",
+      "local_file": "id-anews.view.27.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.28",
+      "local_file": "id-anews.view.28.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.29",
+      "local_file": "id-anews.view.29.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.3",
+      "local_file": "id-anews.view.3.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.30",
+      "local_file": "id-anews.view.30.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.31",
+      "local_file": "id-anews.view.31.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.32",
+      "local_file": "id-anews.view.32.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.33",
+      "local_file": "id-anews.view.33.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "text_diff",
+          "message": "Text differs (similarity: 98.5%); [replace] orig=\"https://tambov.ru.net/detstvo/?read=memories\" vs local=\"Воспоминания\""
+        },
+        {
+          "type": "missing_links",
+          "message": "Missing links (1): /detstvo?read=memories"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.34",
+      "local_file": "id-anews.view.34.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "text_diff",
+          "message": "Text differs (similarity: 98.6%); [replace] orig=\"https://tambov.ru.net/detstvo/?read=memories\" vs local=\"Воспоминания\""
+        },
+        {
+          "type": "missing_links",
+          "message": "Missing links (1): /detstvo?read=memories"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.35",
+      "local_file": "id-anews.view.35.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.36",
+      "local_file": "id-anews.view.36.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.37",
+      "local_file": "id-anews.view.37.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.38",
+      "local_file": "id-anews.view.38.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.39",
+      "local_file": "id-anews.view.39.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.4",
+      "local_file": "id-anews.view.4.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.40",
+      "local_file": "id-anews.view.40.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.41",
+      "local_file": "id-anews.view.41.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.42",
+      "local_file": "id-anews.view.42.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (1): ?read=memories-video#202101"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (1): /detstvo/?read=memories-video"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.43",
+      "local_file": "id-anews.view.43.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.44",
+      "local_file": "id-anews.view.44.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.5",
+      "local_file": "id-anews.view.5.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.6",
+      "local_file": "id-anews.view.6.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.7",
+      "local_file": "id-anews.view.7.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.8",
+      "local_file": "id-anews.view.8.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews.view.9",
+      "local_file": "id-anews.view.9.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews&page=2",
+      "local_file": "id-anews_page-2.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews&page=3",
+      "local_file": "id-anews_page-3.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews&page=4",
+      "local_file": "id-anews_page-4.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?id=anews&page=5",
+      "local_file": "id-anews_page-5.html",
+      "status": "OK",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/",
+      "local_file": "index.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "text_diff",
+          "message": "Text differs (similarity: 92.7%); [delete] orig=\"2 июля 1941 г. Заявление\" vs local=\"\""
+        },
+        {
+          "type": "missing_links",
+          "message": "Missing links (6): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about, ?read=pub-concept"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (4): /detstvo/?read=pub-concept, /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=about-about",
+      "local_file": "read-about-about.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=about-geography",
+      "local_file": "read-about-geography.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=about-relevance",
+      "local_file": "read-about-relevance.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=about-targets",
+      "local_file": "read-about-targets.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=about",
+      "local_file": "read-about.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (9): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about-about, ?read=about-geography, ?read=about-relevance, ?read=about-targets, ?read=socialnet"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (8): /detstvo/?read=about-about, /detstvo/?read=about-geography, /detstvo/?read=about-relevance, /detstvo/?read=about-targets, /detstvo/?read=socialnet, /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=exhibition",
+      "local_file": "read-exhibition.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (6): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /tambov.ru.net/detstvo-bibl, /tambov.ru.net/detstvo-photos, ?view=photos"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=memories-audio",
+      "local_file": "read-memories-audio.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=memories"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=memories-text",
+      "local_file": "read-memories-text.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=memories"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=memories-video",
+      "local_file": "read-memories-video.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (1): ?read=memories"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=memories",
+      "local_file": "read-memories.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (7): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=memories-audio, ?read=memories-text, ?read=memories-video"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (6): /detstvo/?read=memories-audio, /detstvo/?read=memories-text, /detstvo/?read=memories-video, /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=pub-concept",
+      "local_file": "read-pub-concept.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (4): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=publication",
+      "local_file": "read-publication.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=pub-concept"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (4): /detstvo/?read=pub-concept, /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (4): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?read=socialnet",
+      "local_file": "read-socialnet.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (5): /detstvo/?view=photos#photo_13, /detstvo/?view=photos#photo_14, /detstvo/?view=photos#photo_15, /detstvo/?view=photos#photo_17, ?read=about"
+        },
+        {
+          "type": "extra_links",
+          "message": "Extra links (3): /detstvo/?view=photos#photo_19, /detstvo/?view=photos#photo_20, /detstvo/?view=photos#photo_39"
+        },
+        {
+          "type": "missing_images",
+          "message": "Missing images (6): /detstvo/?fimg=1.13, /detstvo/?fimg=1.14, /detstvo/?fimg=1.15, /detstvo/?fimg=1.17, ?img=social-fb.png&size=540, ?img=social-vk.png&size=540"
+        },
+        {
+          "type": "extra_images",
+          "message": "Extra images (3): /detstvo/?fimg=1.19, /detstvo/?fimg=1.20, /detstvo/?fimg=1.39"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?view=photos",
+      "local_file": "view-photos.html",
+      "status": "HAS_DIFFS",
+      "diffs": [
+        {
+          "type": "missing_links",
+          "message": "Missing links (1): ?read=exhibition"
+        }
+      ]
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.134",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.145",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.146",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.147",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.152",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.153",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo/?dload=2.21",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    },
+    {
+      "url": "https://tambov.ru.net/detstvo?dload=2.21",
+      "local_file": "N/A",
+      "status": "MISSING_LOCAL",
+      "diffs": []
+    }
+  ]
+}
